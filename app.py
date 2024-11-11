@@ -7,7 +7,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 import sqlite3
 import os
 
-API_TOKEN = '5047371265:AAHdC6RXacQ2tdx70yjaLxEi0V-OLp7JA4I'
+API_TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 
